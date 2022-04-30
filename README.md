@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Made-By ❤
 - [@adityasingh10042](https://www.github.com/adityasingh10042)
-- [@alpnix](https://github.com/alpnix)
+- [@alpnix](https://www.github.com/alpnix)
